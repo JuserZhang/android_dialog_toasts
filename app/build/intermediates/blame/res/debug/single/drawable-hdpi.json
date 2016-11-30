@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android\\workspace\\android_dialog_toasts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Android\\workspace\\android_dialog_toasts\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\workspace\\android_dialog_toasts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alarm.png",
+        "source": "C:\\Android\\workspace\\android_dialog_toasts\\app\\src\\main\\res\\drawable-hdpi\\alarm.png"
+    }
+]

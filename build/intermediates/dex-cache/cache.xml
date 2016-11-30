@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Android\workspace\android_dialog_toasts\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_b6ed819c561a901d5afa3f1e6cbe392eb0062999.jar" />
+    </item>
+
+</items>

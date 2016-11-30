@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android\\workspace\\android_dialog_toasts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast.xml",
+        "source": "C:\\Android\\workspace\\android_dialog_toasts\\app\\src\\main\\res\\layout\\toast.xml"
+    },
+    {
+        "merged": "C:\\Android\\workspace\\android_dialog_toasts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Android\\workspace\\android_dialog_toasts\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
